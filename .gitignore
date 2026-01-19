@@ -1,0 +1,24 @@
+.DS_Store
+
+# Go build artifacts
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+*.prof
+*.coverprofile
+
+# Binaries
+/elemental-node-map
+/elem-node-map
+
+# Caches and temp files
+/tmp
+/.cache
+
+# Editor configs
+/.idea
+/.vscode
